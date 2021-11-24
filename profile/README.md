@@ -1,5 +1,9 @@
+ <p align="center">
 
- <h2 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> We are Coastal Risks and Engineering Research Lab.</h2>
+<img src="https://user-images.githubusercontent.com/15319503/143174853-2bed07a5-aaf0-49b9-aa10-011a387f151d.png" />
+ 
+</p>
+
 
  <p align="center">
   <a href="https://twitter.com/CoRELabUCF"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@CoRELabUCF"></a>
@@ -24,13 +28,19 @@ Our research mainly focuses on connecting engineering and various science discip
 
 ---
 
-### Latest Publications
+### Latest Scientific Publications
 - [Assessing the dependence structure between oceanographic, fluvial, and pluvial flooding drivers along the United States coastline.](https://doi.org/10.5194/hess-2021-268)
 - [Coastal Landfills and Rising Sea Levels: A Challenge for the 21st Century.](https://doi.org/10.3389/fmars.2021.710342)
 - [Uncertainty and bias in global to regional scale assessments of current and future coastal flood risk.](https://doi.org/10.1029/2020EF001882)
-- [Compound flood potential from storm surge and heavy precipitation in coastal China: dependence, drivers, and impacts.](https://doi.org/10.5194/hess-25-4403-2021​)
+- [Compound flood potential from storm surge and heavy precipitation in coastal China: dependence, drivers, and impacts.](https://doi.org/10.5194/hess-25-4403-2021)
+- [Assessing Compound Flooding with Multivariate Statistical Models in a Complex Estuarine System under Data Constraints.](https://doi.org/10.1111/jfr3.12749)
+
+
+
 
 <!--
+
+ <h2 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> We are Coastal Risks and Engineering Research Lab.</h2>
 
 **Here are some ideas to get you started:**
 
