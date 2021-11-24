@@ -1,5 +1,4 @@
  <p align="center">
-
 <img src="https://user-images.githubusercontent.com/15319503/143174853-2bed07a5-aaf0-49b9-aa10-011a387f151d.png" /> 
  <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" width="100px"/>
  
@@ -13,20 +12,23 @@
  <a href="https://core-lab.weebly.com/"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="CoRELabUCF"></a>
 </p>
 
+```
+Our research mainly focuses on connecting engineering and various science disciplines (e.g., oceanography, hydrology, 
+meteorology, climatology) to better understand the vulnerability of coastal societies, built infrastructure, and fragile 
+ecosystems under climate change conditions. We study changes in coastal sea levels (mean and extreme), ocean waves, and 
+freshwater flows and the associated impacts to support the development of sustainable and resilient adaptation strategies.
 
-Our research mainly focuses on connecting engineering and various science disciplines (e.g., oceanography, hydrology, meteorology, climatology) to better understand the vulnerability of coastal societies, built infrastructure, and fragile ecosystems under climate change conditions. We study changes in coastal sea levels (mean and extreme), ocean waves, and freshwater flows and the associated impacts to support the development of sustainable and resilient adaptation strategies.
-
-> **Some of the topics we work on are:**
-> - Changes in sea level, storm surges, ocean waves, precipitation, and river discharges
-> - (Coastal-)Engineering design concepts
-> - Sustainability of human-natural systems in coastal zones
-> - Extreme value analysis
-> - Climate adaptation and resilience
-> - Integrated coastal vulnerability and risk assessment
-> - Stochastic and numerical modelling of tides, storm surges, waves, and river flows
-> - Multi hazards
-> - Coastal processes and hydrodynamics
-
+Some of the topics we work on are:
+- Changes in sea level, storm surges, ocean waves, precipitation, and river discharges
+- (Coastal-)Engineering design concepts
+- Sustainability of human-natural systems in coastal zones
+- Extreme value analysis
+- Climate adaptation and resilience
+- Integrated coastal vulnerability and risk assessment
+- Stochastic and numerical modelling of tides, storm surges, waves, and river flows
+- Multi hazards
+- Coastal processes and hydrodynamics
+```
 ---
 
 ### Latest Scientific Publications
@@ -36,8 +38,13 @@ Our research mainly focuses on connecting engineering and various science discip
 - [Compound flood potential from storm surge and heavy precipitation in coastal China: dependence, drivers, and impacts.](https://doi.org/10.5194/hess-25-4403-2021)
 - [Assessing Compound Flooding with Multivariate Statistical Models in a Complex Estuarine System under Data Constraints.](https://doi.org/10.1111/jfr3.12749)
 
+---
 
+### Current Projects
+- [Megalopolitan Coastal Transformation Hub (MACH): Improving the Understanding and Governance of Co-Evolving Hazards, Development, and Coastal Processes](https://core-lab.weebly.com/nsf_cope_mach.html)
+- 
 
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
 
 <!--
 
