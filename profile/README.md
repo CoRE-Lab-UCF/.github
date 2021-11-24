@@ -24,6 +24,7 @@ Some of the topics we work on are:
 - (Coastal-)Engineering design concepts
 - Sustainability of human-natural systems in coastal zones
 - Extreme value analysis
+- Compound events
 - Climate adaptation and resilience
 - Integrated coastal vulnerability and risk assessment
 - Stochastic and numerical modelling of tides, storm surges, waves, and river flows
