@@ -44,10 +44,10 @@ Some of the topics we work on are:
 - [Megalopolitan Coastal Transformation Hub (MACH): Improving the Understanding and Governance of Co-Evolving Hazards, Development, and Coastal Processes](https://core-lab.weebly.com/nsf_cope_mach.html)
 - 
 
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
+
 
 <!--
-
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
  <h2 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> We are Coastal Risks and Engineering Research Lab.</h2>
 
 **Here are some ideas to get you started:**
