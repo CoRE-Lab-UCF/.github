@@ -31,7 +31,7 @@ Some of the topics we work on are:
 ```
 ---
 
-### Latest Scientific Publications
+### Latest Scientific Publications :newspaper:
 - [Assessing the dependence structure between oceanographic, fluvial, and pluvial flooding drivers along the United States coastline.](https://doi.org/10.5194/hess-2021-268)
 - [Coastal Landfills and Rising Sea Levels: A Challenge for the 21st Century.](https://doi.org/10.3389/fmars.2021.710342)
 - [Uncertainty and bias in global to regional scale assessments of current and future coastal flood risk.](https://doi.org/10.1029/2020EF001882)
@@ -46,7 +46,7 @@ Some of the topics we work on are:
 - [When forces collide: Developing a scalable framework for compound flood risk assessment](https://core-lab.weebly.com/uscrp.html)
 - [Contributions to Coastal Sea Level Extremes: Understanding the Past and Projecting the Future](https://core-lab.weebly.com/nasa-sea-level-science-team.html)
 
-    *__[Learn about other ongoing projects](https://core-lab.weebly.com/projects.html)__*
+    *__Learn about other ongoing projects [here](https://core-lab.weebly.com/projects.html).__*
 
 
 
