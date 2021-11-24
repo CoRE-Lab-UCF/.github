@@ -40,9 +40,13 @@ Some of the topics we work on are:
 
 ---
 
-### Current Projects
+### Some of Our Ongoing Projects 👩‍💻
 - [Megalopolitan Coastal Transformation Hub (MACH): Improving the Understanding and Governance of Co-Evolving Hazards, Development, and Coastal Processes](https://core-lab.weebly.com/nsf_cope_mach.html)
-- 
+- [Incorporation of Climatic and Hydrologic Non-stationarity into FDOT Planning and Design Guidelines & Processes](https://core-lab.weebly.com/fdot.html)
+- [When forces collide: Developing a scalable framework for compound flood risk assessment](https://core-lab.weebly.com/uscrp.html)
+- [Contributions to Coastal Sea Level Extremes: Understanding the Past and Projecting the Future](https://core-lab.weebly.com/nasa-sea-level-science-team.html)
+
+    *__[Learn about other ongoing projects](https://core-lab.weebly.com/projects.html)__*
 
 
 
