@@ -34,7 +34,7 @@ Some of the topics we work on are:
 ---
 
 ### Latest Scientific Publications :newspaper:
-- [Assessing the dependence structure between oceanographic, fluvial, and pluvial flooding drivers along the United States coastline.](https://doi.org/10.5194/hess-2021-268)
+- [Assessing the dependence structure between oceanographic, fluvial, and pluvial flooding drivers along the United States coastline.](https://hess.copernicus.org/articles/25/6203/2021/hess-25-6203-2021.html)
 - [Coastal Landfills and Rising Sea Levels: A Challenge for the 21st Century.](https://doi.org/10.3389/fmars.2021.710342)
 - [Uncertainty and bias in global to regional scale assessments of current and future coastal flood risk.](https://doi.org/10.1029/2020EF001882)
 - [Compound flood potential from storm surge and heavy precipitation in coastal China: dependence, drivers, and impacts.](https://doi.org/10.5194/hess-25-4403-2021)
