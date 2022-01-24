@@ -13,6 +13,23 @@
  <a href="https://core-lab.weebly.com/"><img src="https://img.shields.io/badge/CoRE Lab Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="CoRELabUCF"></a>
 </p>
 
+
+
+
+<img src="https://imgur.com/rilHVxA.png"/>
+
+
+
+
+
+
+
+
+
+<!--
+
+---
+
 ```
 Our research mainly focuses on connecting engineering and various science disciplines (e.g., oceanography, hydrology, 
 meteorology, climatology) to better understand the vulnerability of coastal societies, built infrastructure, and fragile 
@@ -31,21 +48,6 @@ Some of the topics we work on are:
 - Multi hazards
 - Coastal processes and hydrodynamics
 ```
-
-
-<img src="https://imgur.com/rilHVxA.png"/>
-
-
-
-
-
-
-
-
-
-<!--
-
----
 
 ### Some of Our Ongoing Projects 👩‍💻
 - [Megalopolitan Coastal Transformation Hub (MACH): Improving the Understanding and Governance of Co-Evolving Hazards, Development, and Coastal Processes](https://core-lab.weebly.com/nsf_cope_mach.html)
