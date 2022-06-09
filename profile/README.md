@@ -1,6 +1,6 @@
  <p align="center">
 <img src="https://user-images.githubusercontent.com/15319503/143174853-2bed07a5-aaf0-49b9-aa10-011a387f151d.png" /> 
- <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" width="100px"/>
+ <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" width="100px" height="100px"/>
  
 </p>
 
