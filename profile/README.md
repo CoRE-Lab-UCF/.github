@@ -6,10 +6,11 @@
 
 
  <p align="center">
+ <a href="https://core-lab.weebly.com/"><img src="https://img.shields.io/badge/CoRE Lab Website-D14836?&style=for-the-badge&logo=WordPress&logoColor=white" alt="CoRELabUCF"></a>
   <a href="https://twitter.com/CoRELabUCF"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@CoRELabUCF"></a>
   <a href="https://scholar.google.com/citations?user=kVuxHc0AAAAJ"><img src="https://img.shields.io/badge/Google Scholar-%230077B5.svg?&style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google-Scholar"></a>
  <a href="https://www.researchgate.net/profile/Thomas_Wahl2"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a>
- <a href="https://core-lab.weebly.com/"><img src="https://img.shields.io/badge/CoRE Lab Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="CoRELabUCF"></a>
+ 
 </p>
 
 
